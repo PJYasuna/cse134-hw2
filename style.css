@@ -1,0 +1,16 @@
+body {
+  border: 2px solid black;
+  padding: 10px;
+}
+
+
+hero-card {
+  display: block;
+  border: 2px solid #4CAF50;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 10px 0;
+  background-color: #f0fff0;
+  font-family: sans-serif;
+}
+
